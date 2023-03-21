@@ -1,0 +1,2 @@
+# studentMangement
+small - java project
